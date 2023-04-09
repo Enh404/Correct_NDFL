@@ -6,7 +6,7 @@
 ## Настройка и запуск на ПК
 Клонируем проект:
 
-`git clone git@github.com:Enh404/wanna_mark_it.git`
+`git clone git@github.com:Enh404/Correct_NDFL.git`
 
 Переходим в папку с проектом:
 
